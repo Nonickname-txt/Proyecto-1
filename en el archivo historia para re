@@ -1,0 +1,25 @@
+[33mcommit b4bcac1c26e320092312fc5da9e045cbdd3f7340[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Camilo Ceballos <Camilo_inv@hotmail.com>
+Date:   Wed Dec 11 21:06:35 2019 -0500
+
+    Agregamos el cargo de la persona
+    
+    La persona es freddy
+
+[33mcommit 77f917cc519383831af6398bac1d065356de6049[m
+Author: Camilo Ceballos <Camilo_inv@hotmail.com>
+Date:   Wed Dec 11 21:05:13 2019 -0500
+
+    Agregamos un cambio  su estatura
+
+[33mcommit e91268d32ec14e7e5ba2b9e4a7c3057747e256ce[m
+Author: Camilo Ceballos <Camilo_inv@hotmail.com>
+Date:   Wed Dec 11 21:00:10 2019 -0500
+
+    cambios en el archivo historia para reflejar la edad correcta
+
+[33mcommit 72c1023ec6f59d0ba10fc36c6d092520189dbfc7[m
+Author: Camilo Ceballos <Camilo_inv@hotmail.com>
+Date:   Wed Dec 11 20:57:00 2019 -0500
+
+    Este es el primer commit de este archivo
